@@ -1,5 +1,7 @@
 # police-core
 
-- Vidéo explication / installation : https://youtu.be/soon
+- Vidéo explication / installation : https://youtu.be/KWwEcm1lLgk
+
+PS : La plupart des choses présentes dans ce script ne sont pas réalisées par moi. C'est l'ensemble de diverses ressources regroupées ensemble pour former ce Police Job
 
 <a href="https://discord.gg/Wc4ujJNcpQ"><img src="https://discord.com/api/guilds/723245101282885742/widget.png?style=banner1"></a>

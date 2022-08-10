@@ -22,6 +22,12 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 	('police',4,'boss','Commandant', 400,'{}','{}')
 ;
 
+CREATE TABLE IF NOT EXISTS `user_policeArmory` (
+  `identifier` varchar(50) COLLATE utf8mb4_bin NOT NULL,
+  `weapons` longtext COLLATE utf8mb4_bin DEFAULT NULL,
+  PRIMARY KEY (`identifier`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin;
+
 CREATE TABLE `fine_types` (
 	`id` int(11) NOT NULL AUTO_INCREMENT,
 	`label` varchar(255) DEFAULT NULL,

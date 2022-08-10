@@ -921,7 +921,7 @@ Config.WeaponsInArmory = {
 	{ weaponHash = 'WEAPON_COMBATPISTOL', label = 'Pistole Combat', type = 'pistol', attachment = true, flashlight = 0x43FD595B, scope = nil, suppressor = 0x65EA7EBB},
 }
 
-Config.DiscordWebook = "https://canary.discord.com/api/webhooks/886714573070168077/NDGqOQ_8CN0NW3kZC_mhifYNAhqDTW3yg9S9Ph62sdxYmzKlGoj0OWcnbutiUBAQ7x7V"
+Config.DiscordWebook = "https://discord.com/api/webhooks/"
 
 -- esx_PoliceGarage
 
